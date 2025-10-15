@@ -37,7 +37,7 @@ weather-dashboard/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/SakshamKumarGarg/Basic-Weather-Forecast-Web-App.git
+git clone https://github.com/SakshamKumarGarg/Simple-Weather-Forecast-Web-App.git
 ```
 
 ### 2️⃣ Install dependencies
